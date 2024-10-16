@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 800 800" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g>
+        <g>
+            <g>
+                <g id="LOGO" transform="matrix(0.97104,0,0,0.97104,11.5838,11.5838)">
+                    <g transform="matrix(9.76276,0,0,9.76276,-2588.2,-2740.52)">
+                        <clipPath id="_clip1">
+                            <rect x="293.446" y="317.347" width="26.249" height="8.675"/>
+                        </clipPath>
+                        <g clip-path="url(#_clip1)">
+                            <g transform="matrix(12,0,0,12,332.793,325.926)">
+                            </g>
+                            <text x="279.549px" y="325.926px" style="font-family:'EurostileBQ-BoldExtended', 'Eurostile BQ';font-weight:500;font-size:12px;">NORD</text>
+                        </g>
+                    </g>
+                    <g transform="matrix(9.76276,-1.19559e-15,-1.19559e-15,-9.76276,-2197.73,3540.76)">
+                        <g transform="matrix(12,0,0,12,292.797,325.926)">
+                        </g>
+                        <text x="279.549px" y="325.926px" style="font-family:'EurostileBQ-BoldExtended', 'Eurostile BQ';font-weight:500;font-size:12px;">D</text>
+                    </g>
+                    <g transform="matrix(-9.76276,0,0,9.76276,3001.94,-2740.58)">
+                        <g transform="matrix(12,0,0,12,293.301,325.926)">
+                        </g>
+                        <text x="279.549px" y="325.926px" style="font-family:'EurostileBQ-BoldExtended', 'Eurostile BQ';font-weight:500;font-size:12px;">N</text>
+                    </g>
+                </g>
+                <g transform="matrix(0.904762,0,0,1,37.9524,1)">
+                    <rect x="325" y="346" width="21" height="106"/>
+                </g>
+                <g transform="matrix(0.605457,0.605457,-0.606529,0.606529,631.492,-420.648)">
+                    <g transform="matrix(0.904762,0,0,1,339.551,312.06)">
+                        <rect x="325" y="346" width="21" height="106"/>
+                    </g>
+                    <g transform="matrix(5.54007e-17,0.904762,-1,6.12323e-17,1042.1,407.512)">
+                        <rect x="325" y="346" width="21" height="106"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
