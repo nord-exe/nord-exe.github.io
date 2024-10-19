@@ -55,9 +55,15 @@
 
 @media (max-width: 400px) {
   .introducao {
-    grid-template-columns: 1fr;
+      grid-template-columns: 1fr;
+      /* Keep the section visible */
   }
-  .introducao img {
-    display: none;
+  .introducao h1::before {
+      background: none; /* Hide the circle.svg */
   }
+  
+  
+    
+
 }
+
